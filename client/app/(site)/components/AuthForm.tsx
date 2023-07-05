@@ -39,7 +39,7 @@ const AuthForm = () => {
       }
     } catch (error) {
       console.log(error)
-      // Gestionează eroarea în mod corespunzător, afișând un mesaj de eroare sau efectuând alte acțiuni necesare
+      
     } finally {
       setIsLoading(false)
     }
@@ -67,7 +67,7 @@ const AuthForm = () => {
       router.push("/home")
     } catch (error) {
       console.log(error)
-      // Gestionează eroarea în mod corespunzător, afișând un mesaj de eroare sau efectuând alte acțiuni necesare
+      
     }
   }
 
