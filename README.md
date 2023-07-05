@@ -20,4 +20,4 @@ Register: http://localhost:8080/auth/register  <br/>
 Login: http://localhost:8080/auth/login  <br/>
 Get: http://localhost:8080/users  <br/>
 Delete: http://localhost:8080/users/:id  <br/>
-http://localhost:8080/users/:id  <br/>
+Updata: http://localhost:8080/users/:id  <br/>
