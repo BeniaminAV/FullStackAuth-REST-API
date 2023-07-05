@@ -7,6 +7,8 @@ a REST API for authentication connected to a MongoDB database. As for the front-
 using Next.js and React. The purpose of this application is to create a back-end server that provides 
 API information, which is then connected to the client-side.
 
+ !!! Add your MONGO_URL => server => src/index.ts
+
 To start the backend server, please use the command "npm start." For the frontend application, on the other hand, please run the command "npm run dev."
 
 Back-End API:
