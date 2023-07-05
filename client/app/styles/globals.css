@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+:root {
+  height: 100%;
+  background-color: #000;
+}
+
+.title-page {
+  @apply text-3xl text-yellow-600 font-bold text-center;
+}
