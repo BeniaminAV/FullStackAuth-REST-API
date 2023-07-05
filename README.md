@@ -10,7 +10,6 @@ API information, which is then connected to the client-side.
 To start the backend server, please use the command "npm start." For the frontend application, on the other hand, please run the command "npm run dev."
 
 Back-End API:
-
 Home: http://localhost:8080/ <br/>
 Post: http://localhost:8080/data/posts  <br/>
 Comments: http://localhost:8080/data/comments  <br/>
