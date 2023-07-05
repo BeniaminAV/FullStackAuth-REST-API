@@ -11,14 +11,14 @@ To start the backend server, please use the command "npm start." For the fronten
 
 Back-End API:
 
-Home: http://localhost:8080/
-Post: http://localhost:8080/data/posts
-Comments: http://localhost:8080/data/comments
-Todos : http://localhost:5000/data/todos
+Home: http://localhost:8080/ <br/>
+Post: http://localhost:8080/data/posts  <br/>
+Comments: http://localhost:8080/data/comments  <br/>
+Todos : http://localhost:5000/data/todos  <br/>
 
-API Authentication
-Register: http://localhost:8080/auth/register
-Login: http://localhost:8080/auth/login
-Get: http://localhost:8080/users
-Delete: http://localhost:8080/users/:id
-http://localhost:8080/users/:id
+API Authentication  <br/>
+Register: http://localhost:8080/auth/register  <br/>
+Login: http://localhost:8080/auth/login  <br/>
+Get: http://localhost:8080/users  <br/>
+Delete: http://localhost:8080/users/:id  <br/>
+http://localhost:8080/users/:id  <br/>
